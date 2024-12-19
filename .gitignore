@@ -1,0 +1,16 @@
+.venv/
+.env/
+.idea/
+__pycashe__/
+*.pyc
+*.pyo
+
+*.log
+/debug.log
+
+*.tmp
+*.swp
+
+.env
+config.json
+
